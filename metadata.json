@@ -1,0 +1,5 @@
+{
+  "name": "KP-IA - Elis Plant Productivity System",
+  "description": "Un completo tablero de medición de productividad para la planta de lavandería Elis Nájera. Rastrea OEE, OLE y el consumo de recursos en los procesos de Selección, Lavado, Secado y Calandrado.",
+  "requestFramePermissions": []
+}
